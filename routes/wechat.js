@@ -34,8 +34,8 @@ router.use('/', wechat(config, function (req, res, next) {
             {
                 title: '你来我家接我吧',
                 description: '这是女神与高富帅之间的对话',
-                picurl: 'http://nodeapi.cloudfoundry.com/qrcode.jpg',
-                url: 'http://nodeapi.cloudfoundry.com/'
+                picurl: 'http://www.86wan.com/uploads/2013/0816/20130816015533320.jpg',
+                url: 'http://www.360doc.com/content/12/0415/21/9729012_203854386.shtml'
             }
         ]);
     }
