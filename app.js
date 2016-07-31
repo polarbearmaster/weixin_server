@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
-var wechat = require('.routes/wechat');
+var wechat = require('./routes/wechat');
 
 var app = express();
 
